@@ -114,7 +114,7 @@ This study employed a quantitative research approach using secondary economic da
 | Data Processing | Excel, Python        |
 | Analysis        | Python, SQL          |
 | Visualization   | Power BI             |
-| Version Control | Git & GitHub         |
+| Version Control | GitHub         |
 
 ---
 
